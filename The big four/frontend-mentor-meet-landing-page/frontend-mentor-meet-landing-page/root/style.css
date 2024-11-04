@@ -1,0 +1,148 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    overflow-x:hidden;
+    /* position: relative;
+     */
+}
+#main-container{
+    margin-left: 17cm;
+    margin-top: 3cm;
+    position: relative;
+}
+#h2{
+    margin-left: 16cm;
+    margin-top: 2cm;
+    text-align: justify;
+    font-size: 1.2cm;
+    position: relative;
+}
+
+#left{
+    width: 11cm;
+    margin-left:-2.1rem;
+    margin-top: -5cm;
+    position: absolute;
+}
+#right{
+    margin-left: 28cm;
+    margin-top: -5cm;
+    position: absolute;
+}
+#h6{
+    margin-left: 15cm;
+    margin-top: 2rem;
+    font-size: -1cm;
+    text-align: left;
+    /* position: absolute; */
+    color: rgb(139, 130, 130);
+}
+#butt{
+    border: none;
+    width: 3cm;
+    height: 0.8cm;
+    margin-left: 15cm;
+    margin-top: 1cm;
+    border-radius: 15px;
+    background-color: rgb(76, 170, 170);
+    color: white;
+}
+#butt2{
+    border: none;
+    margin-left: 0.5cm;
+    width: 2cm;
+    height: 0.8cm;
+    border-radius: 15px;
+    background-color: rgb(74, 9, 134);
+    color: white;
+}
+#line{
+    border: none;
+    width: 0.1px;
+    height: 2cm;
+    margin-left: 17.5cm;
+    margin-top: 1cm;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+#line-2{
+    border:none;
+    width: 0.7cm;
+    height: 0.7cm;
+    margin-left: 17.2cm;
+    margin-top: 6px;
+    border-radius: 25px;
+    box-shadow: 1px 2px 1px 2px grey;
+    background-color:white;
+}
+#L{
+    font-size: x-small;
+    text-align: center;
+    margin-top: 0.3cm;
+    color: rgb(161, 153, 153);
+}
+#img{
+    width: 7cm;
+    height: 7cm;
+    margin-left: 28cm;
+    margin-top: 2cm;
+    border-radius: 10px;
+    position: absolute;
+}
+#img2{
+    width: 7cm;
+    height: 7cm;
+    margin-left: 19.8cm;
+    margin-top: 2cm;
+    border-radius: 10px;
+    position: absolute;
+
+}
+#img3{
+    width: 7cm;
+    height: 7cm;
+    margin-left: 11.6cm;
+    margin-top: 2cm;
+    border-radius: 10px;
+    position: absolute;
+}
+#img4{
+    width: 7cm;
+    height: 7cm;
+    margin-left: 3.5cm;
+    margin-top: 2cm;
+    border-radius: 10px;
+    position: absolute;
+}
+#up{
+    border: none;
+    margin-top: 10cm;
+    height: 1cm;
+    width: 8cm;
+    margin-left: 15cm;
+    /* position: absolute; */
+
+}
+#h4{
+    margin-left: 2cm;
+    text-align: justify;
+    color: rgb(109, 208, 208);
+    position: absolute;
+     
+}
+#smart{
+    margin-left: 15cm;
+    text-align: left;
+    font-size: 0.9cm;
+    margin-top: 0.5cm;
+    position: absolute;
+    justify-content: end;
+    color: rgb(12, 12, 47);
+}
+#strong{
+    margin-top: 3cm;
+    margin-left: 15cm;
+    color: grey;
+    position: absolute;
+}

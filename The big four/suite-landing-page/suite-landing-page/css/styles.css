@@ -1,0 +1,199 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    position: relative;
+    overflow-x:hidden ;
+}
+#img{
+    margin-left: 2cm;
+    margin-top: 0.5cm;
+    /* position: relative; */
+}
+#main{
+    border: none;
+    width: 5cm;
+    height: 1cm;
+    margin-top: -0.8cm;
+    margin-left: 30cm;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 4px 6px 5px grey;
+    position: relative;
+}
+#Request{
+    margin-top: -0.6; 
+    position: relative; 
+    margin-left: 0.5cm; 
+}
+#img2{
+    margin-left: 13cm;
+    margin-top: 5cm;
+    width: 12cm;
+    height: 20cm;
+}
+#div{
+    margin-top: -18.5cm;
+    margin-left: 10cm;
+    position: relative;
+}
+ #img3{ 
+    margin-top: 1cm;
+    position: relative;
+} 
+#h2{
+    justify-content: space-between;
+    font-size: 1.4cm;
+    margin-left: 5cm;
+    margin-top: 1cm;
+}
+#h6{
+    margin-left: 5cm;
+    margin-top: 1cm;
+    color: grey;
+}
+#main-2{
+    border: 1px solid black;
+    width: 5cm;
+    height: 1cm;
+    margin-left: 4.5cm;
+    margin-top: 1cm;
+    border-radius: 10px;
+    box-shadow: 2px 4px 6px grey;
+    background-color: rgb(8, 8, 34);
+    position: relative;
+}
+#Request-2{
+    margin-top: 0.3cm;
+    position: relative;
+    margin-left: 0.6cm;
+    justify-content: safe;
+    color: #d5c9c9;
+
+}
+#main-3{
+    border: none;
+    width: 5cm;
+    height: 2cm;
+    margin-left: 26cm;
+    margin-top: -10cm;
+    position: relative;
+    border-radius: 10px;
+}
+#k{
+   margin-left: 0.2cm;
+   text-align: center;
+   font-size: 0.9cm;
+   margin-top: 0.4cm;
+   color: rgb(10, 10, 42);
+   position: relative;
+}
+#CO{
+    margin-top:0.2cm;
+    margin-left: 2cm;
+    font-size: 0.3cm;
+    color: grey;
+    position: relative;
+    
+}
+#main-4{
+    border: none;
+    width: 5cm;
+    height: 2cm;
+    margin-left: 27cm;
+    margin-top: 3cm;
+    border-radius: 10px;
+    position: relative;
+}
+#L{
+    margin-left: 2cm;
+    margin-top: 0.3cm;
+    justify-content: center;
+    font-size: 0.9cm;
+    position: relative;
+}
+#L-2{
+    margin-left: 1.2cm;
+    margin-top: 0.2cm;
+    color: grey;
+    position: relative;
+}
+#main-5{
+    border: none;
+    width: 5cm;
+    height: 2cm;
+    margin-left: 27cm;
+    margin-top: 3cm;
+    border-radius: 10px;
+    position: relative;
+}
+#M{
+    margin-left: 1.4cm;
+    margin-top: 0.2cm;
+    font-size: 1cm;
+
+}
+#Leads{
+    margin-left: 1.5cm;
+    margin-top: 0.1cm;
+    color: grey;
+}
+#main-6{
+    border: none;
+    width: 25cm;
+    height: 14cm;
+    margin-left: 15.45rem;
+    margin-top: 10cm;
+    border-radius: 20px;
+    background-color: rgb(3, 3, 39);
+    position: relative;
+    
+}
+#curved{
+    margin-bottom: 9cm;
+    margin-left: -1cm;
+    /* margin-top: -3cm; */
+    position: relative;
+}
+#jeremy{
+    margin-top: -55.75rem;
+    margin-bottom: 1cm;
+    margin-left: 2cm;
+    position: relative;
+
+}
+#just{
+    margin-left: 16cm;
+    margin-top: -13cm;
+    font-size: smaller;
+    color: grey;
+}
+#RObinson{
+    margin-left: 15cm;
+    margin-top: 5cm;
+    font-size: 0.6cm;
+    color: grey;
+    position: relative;
+}
+#cmo{
+    margin-left: 15cm;
+    margin-top: 1cm;
+    font-size: 0.5cm;
+    color: grey;
+}
+#icon{
+    margin-left: 28cm;
+    margin-top: 1cm;
+    position: relative;
+}
+#icon-1{
+    margin-left: 0.5cm;
+    position: relative;
+}
+#icon-2{
+    margin-left: 0.5cm;
+    position: relative;
+}

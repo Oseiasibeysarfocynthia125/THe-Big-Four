@@ -1,0 +1,144 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+ position: relative;
+ overflow-x: hidden;
+
+}
+#container{
+    margin-left: 29.1cm;
+     margin-top: -55cm;
+}
+#container-2{
+    margin-top:-10cm ;
+    margin-left: 2cm;
+}
+#y{
+  margin-left: 13cm;
+  margin-top: 3cm;
+  font-size: 1.5cm;
+}
+#y2{
+   margin-left: 13cm;
+   margin-top: 1cm;
+   color: rgb(90, 86, 86);
+}
+#container-3{
+  border:1px solid black;
+  width: 33cm;
+  height: 15cm;
+  margin-top: 15cm;
+  margin-left:3cm ;
+  border-radius: 20px;
+  background-color: rgb(2, 2, 19);
+  position: relative;
+}
+#your{
+  margin-left: 12cm;
+  margin-top: 1cm;
+  position: relative;
+}
+
+#f{
+   width: 10cm;
+   margin-top: -25cm;
+   margin-left:4.2cm;
+   position: relative;
+}
+#container-4{
+  border: none;
+  width: 10cm;
+  height: 13cm;
+  margin-top: -11cm;
+  margin-left: 17cm;
+  border-radius: 10px;
+  background-color: #FE694B;
+  position: relative;
+}
+#h2{
+  margin-top: 2cm;
+  margin-left: 2cm;
+  font-size: 0.8cm;
+  color: white;
+}
+#h6{
+  font-size: x-small;
+  margin-left: 2cm;
+  justify-content: space-between;
+  color: rgb(213, 206, 206);
+  margin-top: 1cm;
+}
+#h1{
+  margin-left: 2cm;
+  margin-top: 2cm;
+  color: white;
+}
+#u{
+  border:none;
+  width: 5cm;
+  height: 1cm;
+  margin-top: 3rem;
+  margin-left: 4rem;
+  border-radius: 10px; 
+  background-color: black;
+  position: relative;
+} 
+#uk{
+  margin-left: 1cm;
+  margin-top:4px;
+  position: relative;
+}
+#h3{
+  margin-top: -0.4cm;
+  margin-left: 2cm;
+  text-align: justify;
+  font-size: 0.3cm;
+  color: white;
+}
+#q{
+  border: none;
+  width: 5cm;
+  height: 1cm;
+  margin-top: 1rem;
+  margin-left: 4rem;
+  border-radius: 10px;
+  background-color: white;
+}
+#qk{
+  margin-left: 2rem;
+  margin-bottom: -1.3rem;
+  position: relative;
+}
+#h-3{
+  margin-top: -0.2cm;
+  font-size: 0.3cm;
+  margin-left: 2cm;
+  text-align: justify;
+  color:black;
+}
+#container-5{
+  margin-top: 3cm;
+  margin-left: 3cm;
+  position: relative;
+}
+#container-6{
+  border:none;
+  width: 8cm;
+  height: 2cm;
+  margin-left: 14cm;
+  margin-top: 0.8cm;
+  position: relative;
+}
+#hat{
+  margin-left: 1cm;
+  margin-top: 0.5cm;
+  font-size: xx-small;
+}
+
+#icon{
+  margin-left: 29.5cm;
+  margin-top: -3cm;
+  position: absolute;
+}
